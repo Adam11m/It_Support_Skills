@@ -116,5 +116,6 @@ This document contains essential Linux commands for first-line technical support
 This file is part of my personal learning repository as I prepare for an **IT Support L1 / Desktop Support** role. It reflects my current working knowledge of Linux command-line tools used in real-world troubleshooting.
 
 **Maintained by:** Ahmad
+
 **Last updated:** April 2026  
 ---
